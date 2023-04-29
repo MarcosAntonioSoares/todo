@@ -9,11 +9,11 @@
 </p>
 
 
-<center> 
+<div align="center"> 
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
-</center>
+</div>
 
 <br>
 
