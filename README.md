@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Marcos A Soares</b></sub></a>
 &nbsp;
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcos_Antonio_Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosantoniosoares/)](https://www.linkedin.com/in/marcosantoniosoares/)  [![Gmail Badge](https://img.shields.io/badge/-marcosas.soares2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosas.soares2@gmail.com)](mailto:marcosas.soares2@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosantoniosoares/)](https://www.linkedin.com/in/marcosantoniosoares/)  [![Gmail Badge](https://img.shields.io/badge/-marcosas.soares2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosas.soares2@gmail.com)](mailto:marcosas.soares2@gmail.com)
 
 <a id="licenca"></a>
 
