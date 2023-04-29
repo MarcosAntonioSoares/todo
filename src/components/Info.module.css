@@ -1,0 +1,37 @@
+.info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.created {
+  display: flex;
+  align-items: center;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 17px;
+  color: var(--blue-300);
+  gap: 0.5rem;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gray-400);
+  color: var(--gray-200);
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 15px;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+
+.done {
+  display: flex;
+  align-items: center;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 17px;
+  color: var(--purple-300);
+  gap: 0.5rem;
+}

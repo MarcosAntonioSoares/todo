@@ -1,0 +1,55 @@
+.container {
+  margin-top: 1.5rem;
+}
+
+.list {
+  list-style: none;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.list_item {
+  display: flex;
+  align-items: flex-start;
+  background: var(--gray-500);
+  border: 1px solid var(--gray-400);
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.06);
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.mr_12 {
+  margin-right: 0.75rem;
+}
+
+.ml_12 {
+  margin-left: 0.75rem;
+}
+
+.text {
+  flex: 1 1 auto;
+}
+
+.text p {
+  font-size: 0.875rem;
+  line-height: 140%;
+}
+
+.check {
+  color: var(--gray-300);
+  text-decoration-line: line-through;
+}
+
+.btn {
+  color: var(--gray-300);
+  background: transparent;
+  border-radius: 0.25rem;
+  border: 0;
+  padding: 0.25rem;
+  line-height: 0;
+}
+
+.btn:hover {
+  background: var(--gray-400);
+  color: var(--red-500);
+}
